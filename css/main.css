@@ -124,6 +124,7 @@ body {
   font-size: 1em;
   color: #e2e3ed;
   text-align: left;
+  background-color: #202322;
 }
 
 ul, 
@@ -587,6 +588,7 @@ aside {
     width: 85%;
   }
 
+  .reviews article figure,
   .reviews article div {
     width: 49%;        
   }
